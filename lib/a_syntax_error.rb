@@ -1,3 +1,8 @@
-x = 1
+#x = 1
 
-x = 
+#x = 
+
+def some_method
+    puts "Hello, world!"
+  end
+  
